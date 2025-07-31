@@ -1,0 +1,49 @@
+# Compiled class files
+*.class
+
+# Maven target directory
+/target/
+
+# Maven wrapper JAR
+.mvn/wrapper/maven-wrapper.jar
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+
+## STS (Spring Tool Suite) ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache/
+
+## IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+## NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+## VS Code ###
+.vscode/
+
+# Build folders
+/build/
+
+# Help files or editor metadata
+HELP.md
