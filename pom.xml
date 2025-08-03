@@ -90,6 +90,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>email-writer</finalName>
 	</build>
 
 </project>
